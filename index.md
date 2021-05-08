@@ -1,5 +1,4 @@
 
-# Youra Cho
 
 ##### Hi, I’m a Software Engineer passionate about Data Engineering and Data Science based in Silicon Valley, California. 
 
@@ -12,8 +11,9 @@
 
 
 ## **Coding Interview Practice**
-
-
+ 
+ 
+ 
 #### Contact Info
 - yourachoca@gmail.com
 - LinkedIn
