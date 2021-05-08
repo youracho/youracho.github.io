@@ -1,16 +1,16 @@
 
 
-Hi, I’m a Software Engineer passionate about Data Engineering and Data Science based in Silicon Valley, California. 
-This Gibhub page is to share my related knowledge and projects that I have worked on.
-
-## Projects
-### Data Engineering
-### Data Science/Machine Learning
-### Python/Pandas/RegEx
-### SQL
+#### Hi, I’m a Software Engineer passionate about Data Engineering and Data Science based in Silicon Valley, California. 
 
 
-## Coding Interview Practice
+## **Projects**
+### 1. Data Engineering
+### 2. Data Science / Machine Learning
+### 3. Python / Pandas / RegEx
+### 4. SQL
+
+
+## **Coding Interview Practice**
 
 
 ### Contact Info
